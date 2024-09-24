@@ -95,16 +95,16 @@ The handheld sensor suite is illustrated in the Figure 1. A more detailed summar
 ### Global LiDAR-to-BIM Registration
 Global LiDAR-to-BIM registration aims to estimate a transformation from scratch between the LiDAR submap and the BIM coordinate system. A robot can localize itself globally by aligning the online built submap to the BIM. 
 
-<div align = "center"><img src="assets/registration.gif" width="65%" /> </div>
+<div align = "center"><img src="assets/registration.gif" width="55%" /> </div>
 
 ### Robot Pose Tracking on BIM
 Different from LiDAR-to-BIM, Pose tracking requires estimating poses given the initial state and sequential measurements. 
 
-<div align = "center"><img src="assets/pose_tracking.gif" width="65%" /> </div>
+<div align = "center"><img src="assets/pose_tracking.gif" width="55%" /> </div>
 
 ### Semantic Mapping
 we deploy FM-Fusion on SLABIM. For the ground truth, we convert the HKUST BIM into semantic point cloud maps using labeled information. 
-<div align = "center"><img src="assets/semantic_mapping.gif" width="65%" /> </div>
+<div align = "center"><img src="assets/semantic_mapping.gif" width="45%" /> </div>
 
 
 ## Acknowledgements
