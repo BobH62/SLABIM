@@ -1,0 +1,12 @@
+Log
+*build*
+__pycache__
+log
+results
+.idea/
+bob
+special_logs
+datait
+bin
+experiments
+.vscode
